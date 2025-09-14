@@ -1,0 +1,14 @@
+{
+    "intents" :[
+        {
+    "tag":"open",
+    "patterns":["open","launch","start","visit"
+    ],
+    "responses":["open"
+    ]
+        }
+
+       
+        
+               ]
+}
